@@ -1,4 +1,4 @@
-# Text Twister App
+# Text Twister Web App
 
 Final project on Computational Science and Compiler design.
 
@@ -8,8 +8,8 @@ Developed by Team Davinci Code
 
 **Clone the repo**
 
-- Run `git clone https://github.com/chaaals/dc-text-twistr.git` in your terminal
-- Open the project by running `code dc-text-twistr` in your terminal
+- Run `git clone https://github.com/chaaals/dc-text-twister.git` in your terminal
+- Open the project by running `code dc-text-twister` in your terminal
 
 **Install dependencies and add env variables**
 
